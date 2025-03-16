@@ -18,15 +18,15 @@ DirSearch is a multi-threaded directory scanning tool written in Python. It help
 ## Installation
 1. Clone the repo:
 ```
-git clone https://github.com/Demonpandaz2763/dirscanner.git
+git clone https://github.com/Demonpandaz2763/DirSearch.git
 ```
 3. Cd to repo directory:
 ```
-cd dirscanner
+cd DirSearch
 ```
 4. Install the required dependencies:
 ```
-pip3 install -r requirements.txt
+pip3 install requests
 ```
 
 ## Usage
