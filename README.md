@@ -7,7 +7,6 @@ DirScanner is a multi-threaded directory scanning tool written in Python. It hel
 ## Features
  - **Multi-threaded Scanning:** Leverages Python's threading and concurrent execution to scan multiple URLs concurrently.
  - **Custom Wordlist & Extensions:** Generate target URLs by combining base paths from a wordlist with optional file extensions.
- - **Progress Feedback:** Displays a dynamic progress bar and request rate, so you know how the scan is proceeding.
  - **Recursive Scanning:** Optionally follow directory listings to perform recursive scans up to a specified depth.
  - **Customizable Options:** Supports custom HTTP headers, proxy settings, and request timeouts.
  - **Status Filtering:** Ignore specified HTTP status codes (e.g., 404) to focus on interesting results.
