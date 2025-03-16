@@ -18,11 +18,17 @@ DirScanner is a multi-threaded directory scanning tool written in Python. It hel
 
 ## Installation
 1. Clone the repo:
-`git clone https://github.com/Demonpandaz2763/dirscanner.git`
-2. Cd to repo directory:
-`cd dirscanner`
-3. Install the required dependencies:
-`pip3 install -r requirements.txt`
+```
+git clone https://github.com/Demonpandaz2763/dirscanner.git
+```
+3. Cd to repo directory:
+```
+cd dirscanner
+```
+4. Install the required dependencies:
+```
+pip3 install -r requirements.txt
+```
 
 ## Usage
 
