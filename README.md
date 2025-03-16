@@ -1,8 +1,8 @@
-# DirScanner
+# DirSearch
 
 ## Overview
 
-DirScanner is a multi-threaded directory scanning tool written in Python. It helps you discover hidden or unlisted directories and files on a target web server by appending words from a user-provided wordlist with optional file extensions. Whether you need a quick scan or a recursive deep dive, DirScanner is built to be flexible, efficient, and easy to use.
+DirSearch is a multi-threaded directory scanning tool written in Python. It helps you discover hidden or unlisted directories and files on a target web server by appending words from a user-provided wordlist with optional file extensions. Whether you need a quick scan or a recursive deep dive, DirSearch is built to be flexible, efficient, and easy to use.
 
 ## Features
  - **Multi-threaded Scanning:** Leverages Python's threading and concurrent execution to scan multiple URLs concurrently.
@@ -60,3 +60,4 @@ options:
   --exclude EXCLUDE     Comma-separated list of status codes to ignore (default: 404)
 ```
 ---
+**Note:** This is **NOT** the original DirSearch.
