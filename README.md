@@ -33,7 +33,9 @@ pip3 install -r requirements.txt
 ## Usage
 
 Run the script using Python with various options:
-`python3 main.py -u http://example.com -w /path/to/wordlists/words.txt`
+```
+python3 main.py -u http://example.com -w /path/to/wordlists/words.txt
+```
 
 ### Command-Line Options
 ```
